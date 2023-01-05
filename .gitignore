@@ -1,0 +1,6 @@
+__pycache__
+testing
+.DS_Store
+.vscode
+pdfs.json
+doc_docker_pdf_output

@@ -1,0 +1,398 @@
+[
+  {
+    "book_code": "gen",
+    "book_name": "Genesis",
+    "book_category": "bible-ot",
+    "sort_order": 1
+  },
+  {
+    "book_code": "exo",
+    "book_name": "Exodus",
+    "book_category": "bible-ot",
+    "sort_order": 2
+  },
+  {
+    "book_code": "lev",
+    "book_name": "Leviticus",
+    "book_category": "bible-ot",
+    "sort_order": 3
+  },
+  {
+    "book_code": "num",
+    "book_name": "Numbers",
+    "book_category": "bible-ot",
+    "sort_order": 4
+  },
+  {
+    "book_code": "deu",
+    "book_name": "Deuteronomy",
+    "book_category": "bible-ot",
+    "sort_order": 5
+  },
+  {
+    "book_code": "jos",
+    "book_name": "Joshua",
+    "book_category": "bible-ot",
+    "sort_order": 6
+  },
+  {
+    "book_code": "jdg",
+    "book_name": "Judges",
+    "book_category": "bible-ot",
+    "sort_order": 7
+  },
+  {
+    "book_code": "rut",
+    "book_name": "Ruth",
+    "book_category": "bible-ot",
+    "sort_order": 8
+  },
+  {
+    "book_code": "1sa",
+    "book_name": "1 Samuel",
+    "book_category": "bible-ot",
+    "sort_order": 9
+  },
+  {
+    "book_code": "2sa",
+    "book_name": "2 Samuel",
+    "book_category": "bible-ot",
+    "sort_order": 10
+  },
+  {
+    "book_code": "1ki",
+    "book_name": "1 Kings",
+    "book_category": "bible-ot",
+    "sort_order": 11
+  },
+  {
+    "book_code": "2ki",
+    "book_name": "2 Kings",
+    "book_category": "bible-ot",
+    "sort_order": 12
+  },
+  {
+    "book_code": "1ch",
+    "book_name": "1 Chronicles",
+    "book_category": "bible-ot",
+    "sort_order": 13
+  },
+  {
+    "book_code": "2ch",
+    "book_name": "2 Chronicles",
+    "book_category": "bible-ot",
+    "sort_order": 14
+  },
+  {
+    "book_code": "ezr",
+    "book_name": "Ezra",
+    "book_category": "bible-ot",
+    "sort_order": 15
+  },
+  {
+    "book_code": "neh",
+    "book_name": "Nehemiah",
+    "book_category": "bible-ot",
+    "sort_order": 16
+  },
+  {
+    "book_code": "est",
+    "book_name": "Esther",
+    "book_category": "bible-ot",
+    "sort_order": 17
+  },
+  {
+    "book_code": "job",
+    "book_name": "Job",
+    "book_category": "bible-ot",
+    "sort_order": 18
+  },
+  {
+    "book_code": "psa",
+    "book_name": "Psalms",
+    "book_category": "bible-ot",
+    "sort_order": 19
+  },
+  {
+    "book_code": "pro",
+    "book_name": "Proverbs",
+    "book_category": "bible-ot",
+    "sort_order": 20
+  },
+  {
+    "book_code": "ecc",
+    "book_name": "Ecclesiastes",
+    "book_category": "bible-ot",
+    "sort_order": 21
+  },
+  {
+    "book_code": "sng",
+    "book_name": "Song of Solomon",
+    "book_category": "bible-ot",
+    "sort_order": 22
+  },
+  {
+    "book_code": "isa",
+    "book_name": "Isaiah",
+    "book_category": "bible-ot",
+    "sort_order": 23
+  },
+  {
+    "book_code": "jer",
+    "book_name": "Jeremiah",
+    "book_category": "bible-ot",
+    "sort_order": 24
+  },
+  {
+    "book_code": "lam",
+    "book_name": "Lamentations",
+    "book_category": "bible-ot",
+    "sort_order": 25
+  },
+  {
+    "book_code": "ezk",
+    "book_name": "Ezekiel",
+    "book_category": "bible-ot",
+    "sort_order": 26
+  },
+  {
+    "book_code": "dan",
+    "book_name": "Daniel",
+    "book_category": "bible-ot",
+    "sort_order": 27
+  },
+  {
+    "book_code": "hos",
+    "book_name": "Hosea",
+    "book_category": "bible-ot",
+    "sort_order": 28
+  },
+  {
+    "book_code": "jol",
+    "book_name": "Joel",
+    "book_category": "bible-ot",
+    "sort_order": 29
+  },
+  {
+    "book_code": "amo",
+    "book_name": "Amos",
+    "book_category": "bible-ot",
+    "sort_order": 30
+  },
+  {
+    "book_code": "oba",
+    "book_name": "Obadiah",
+    "book_category": "bible-ot",
+    "sort_order": 31
+  },
+  {
+    "book_code": "jon",
+    "book_name": "Jonah",
+    "book_category": "bible-ot",
+    "sort_order": 32
+  },
+  {
+    "book_code": "mic",
+    "book_name": "Micah",
+    "book_category": "bible-ot",
+    "sort_order": 33
+  },
+  {
+    "book_code": "nam",
+    "book_name": "Nahum",
+    "book_category": "bible-ot",
+    "sort_order": 34
+  },
+  {
+    "book_code": "hab",
+    "book_name": "Habakkuk",
+    "book_category": "bible-ot",
+    "sort_order": 35
+  },
+  {
+    "book_code": "zep",
+    "book_name": "Zephaniah",
+    "book_category": "bible-ot",
+    "sort_order": 36
+  },
+  {
+    "book_code": "hag",
+    "book_name": "Haggai",
+    "book_category": "bible-ot",
+    "sort_order": 37
+  },
+  {
+    "book_code": "zec",
+    "book_name": "Zechariah",
+    "book_category": "bible-ot",
+    "sort_order": 38
+  },
+  {
+    "book_code": "mal",
+    "book_name": "Malachi",
+    "book_category": "bible-ot",
+    "sort_order": 39
+  },
+  {
+    "book_code": "mat",
+    "book_name": "Matthew",
+    "book_category": "bible-nt",
+    "sort_order": 40
+  },
+  {
+    "book_code": "mrk",
+    "book_name": "Mark",
+    "book_category": "bible-nt",
+    "sort_order": 41
+  },
+  {
+    "book_code": "luk",
+    "book_name": "Luke",
+    "book_category": "bible-nt",
+    "sort_order": 42
+  },
+  {
+    "book_code": "jhn",
+    "book_name": "John",
+    "book_category": "bible-nt",
+    "sort_order": 43
+  },
+  {
+    "book_code": "act",
+    "book_name": "Acts",
+    "book_category": "bible-nt",
+    "sort_order": 44
+  },
+  {
+    "book_code": "rom",
+    "book_name": "Romans",
+    "book_category": "bible-nt",
+    "sort_order": 45
+  },
+  {
+    "book_code": "1co",
+    "book_name": "1 Corinthians",
+    "book_category": "bible-nt",
+    "sort_order": 46
+  },
+  {
+    "book_code": "2co",
+    "book_name": "2 Corinthians",
+    "book_category": "bible-nt",
+    "sort_order": 47
+  },
+  {
+    "book_code": "gal",
+    "book_name": "Galatians",
+    "book_category": "bible-nt",
+    "sort_order": 48
+  },
+  {
+    "book_code": "eph",
+    "book_name": "Ephesians",
+    "book_category": "bible-nt",
+    "sort_order": 49
+  },
+  {
+    "book_code": "php",
+    "book_name": "Philippians",
+    "book_category": "bible-nt",
+    "sort_order": 50
+  },
+  {
+    "book_code": "col",
+    "book_name": "Colossians",
+    "book_category": "bible-nt",
+    "sort_order": 51
+  },
+  {
+    "book_code": "1th",
+    "book_name": "1 Thessalonians",
+    "book_category": "bible-nt",
+    "sort_order": 52
+  },
+  {
+    "book_code": "2th",
+    "book_name": "2 Thessalonians",
+    "book_category": "bible-nt",
+    "sort_order": 53
+  },
+  {
+    "book_code": "1ti",
+    "book_name": "1 Timnthy",
+    "book_category": "bible-nt",
+    "sort_order": 54
+  },
+  {
+    "book_code": "2ti",
+    "book_name": "2 Timnthy",
+    "book_category": "bible-nt",
+    "sort_order": 55
+  },
+  {
+    "book_code": "tit",
+    "book_name": "Titus",
+    "book_category": "bible-nt",
+    "sort_order": 56
+  },
+  {
+    "book_code": "phm",
+    "book_name": "Philemon",
+    "book_category": "bible-nt",
+    "sort_order": 57
+  },
+  {
+    "book_code": "heb",
+    "book_name": "Hebrews",
+    "book_category": "bible-nt",
+    "sort_order": 58
+  },
+  {
+    "book_code": "jas",
+    "book_name": "James",
+    "book_category": "bible-nt",
+    "sort_order": 59
+  },
+  {
+    "book_code": "1pe",
+    "book_name": "1 Peter",
+    "book_category": "bible-nt",
+    "sort_order": 60
+  },
+  {
+    "book_code": "2pe",
+    "book_name": "2 Peter",
+    "book_category": "bible-nt",
+    "sort_order": 61
+  },
+  {
+    "book_code": "1jn",
+    "book_name": "1 John",
+    "book_category": "bible-nt",
+    "sort_order": 62
+  },
+  {
+    "book_code": "2jn",
+    "book_name": "2 John",
+    "book_category": "bible-nt",
+    "sort_order": 63
+  },
+  {
+    "book_code": "3jn",
+    "book_name": "3 John",
+    "book_category": "bible-nt",
+    "sort_order": 64
+  },
+  {
+    "book_code": "jud",
+    "book_name": "Jude",
+    "book_category": "bible-nt",
+    "sort_order": 65
+  },
+  {
+    "book_code": "rev",
+    "book_name": "Revelation",
+    "book_category": "bible-nt",
+    "sort_order": 66
+  }
+]

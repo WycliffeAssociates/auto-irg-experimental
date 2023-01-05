@@ -1,0 +1,52 @@
+[
+  {
+    "lang_code": "fr",
+    "lang_name": "French",
+    "resources": ["f10", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "en",
+    "lang_name": "English",
+    "resources": ["ulb-wa", "tw-wa", "tq-wa", "tn-wa"]
+  },
+  {
+    "lang_code": "es-419",
+    "lang_name": "Spanish",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "pt-br",
+    "lang_name": "Portuguese (Brazilian)",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "ru",
+    "lang_name": "Русский (Russian)",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "sw",
+    "lang_name": "Swahili",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "hi",
+    "lang_name": "Hindi",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "id",
+    "lang_name": "Bahasa Indonesia",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "zh",
+    "lang_name": "中国语文 (Chinese)",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  },
+  {
+    "lang_code": "arb",
+    "lang_name": "(Arabic) العربية",
+    "resources": ["ulb", "tw", "tq", "tn"]
+  }
+]

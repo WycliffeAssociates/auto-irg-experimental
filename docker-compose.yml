@@ -1,0 +1,36 @@
+version: '3'
+services:
+  api:
+    image: wycliffeassociates/doc:develop
+    env_file:
+      - .env
+    expose:
+      - 80
+    volumes:
+      - doc_docker_pdf_output:/document_output
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/health/status"]
+      interval: 60s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+  pipeline:
+    build: .
+    init: true
+    environment:
+      PDFS_DIR: 'https://irgdownloaddev.walink.org/'
+      IRG_ENDPOINT: http://api/documents
+      THREAD_COUNT: 5
+      MAX_RUN_TIME_IN_MINS: 660
+      RUN_AT_TIME: "00:00:01" # midnight UTC
+    volumes:
+      - doc_docker_pdf_output:/app/output
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  doc_docker_pdf_output:
+    external: true
+
